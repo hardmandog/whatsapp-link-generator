@@ -1,0 +1,6 @@
+# WordPress
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
+*.zip
